@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # Unmodified 3rd Party Content
 Content/StarterContent
+Content/FirstPersonBP
+Content/FirstPerson
+Content/Geometry
